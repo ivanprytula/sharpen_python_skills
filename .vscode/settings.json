@@ -1,0 +1,18 @@
+{
+    "editor.insertSpaces": false,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.defaultInterpreterPath": "/home/ivan.prytula/VSCProjects/sharpen_python_skills/env/bin/python",
+    "python.formatting.blackPath": "black",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "cSpell.words": [
+        "elif",
+        "gmtime",
+        "hashable"
+    ],
+    "editor.fontFamily": "'Courier New',  Consolas,  monospace",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "monospace"
+}
