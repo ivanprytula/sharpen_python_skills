@@ -1,0 +1,2 @@
+requests==2.30.0
+pipdeptree==2.7.1

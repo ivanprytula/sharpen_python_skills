@@ -9,7 +9,11 @@ PEP = Python Enhancement Proposal
   Typical usage example:
 
   foo = ClassFoo()
+
+
+  
   bar = foo.get_bar()
+  
 
 
 """
